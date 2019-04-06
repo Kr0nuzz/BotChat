@@ -6,4 +6,4 @@ pkg install python3
 pkg install git
 git clone https://github.com/Kr0nuzz/BotChat
 cd BotChat
-python bot.py
+python Bot.py
